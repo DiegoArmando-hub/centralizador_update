@@ -1,15 +1,15 @@
 {
-  "version": "1.0.10",
-  "notes": "Release v1.0.10",
-  "pub_date": "2026-04-09T17:29:05Z",
+  "version": "1.0.11",
+  "notes": "Release v1.0.11",
+  "pub_date": "2026-04-22T16:07:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjY3dU9WdzdFWEp1ZSswdEdEUjJFQWplL0U1NmtXTWZDYks3ZityaEMwUWJpeEFWSVF3OUorbjg0MCszQkMyR0lOUS82dUo1U1lQZmsyeEYxcmtXOTlScDV4L2MzTEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU1NzMwCWZpbGU6QXVsYSBWaXJ0dWFsIEdDXzEuMC4xMF94NjRfZW4tVVMubXNpCkQrYlZnU3Z2bC8ySElaL3lQUElQWUcwZ3BQR0dONVJiNUpscTVIemxEaXZ5Ym83ays3YUFkSTBpQ1V1MURmOGlRMFlaNDdKdlMxQ29qT2xGTkcyYkRnPT0K",
-      "url": "https://github.com/DiegoArmando-hub/centralizador_update/releases/download/v1.0.10/Aula.Virtual.GC_1.0.10_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjY3dU9WdzdFWERHcHdOanBMek5rTkpGczFMVHR4eks1VGsyTW02dm1KdTlQUnJSMmhYM2o0cEQ1WnNFWnd4Ylg1aWt1bGRtYit0K09GeThCOWJ6NmNxdTl5UzhvYXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc0MDIyCWZpbGU6QXVsYSBWaXJ0dWFsIEdDXzEuMC4xMV94NjRfZW4tVVMubXNpCk9qdzdPT2ZpNjh5cmxwVWltMmpobDZLd29nSENhMTdzRHNsUFBoOWlyVzFxbE9yWDJZQUtCMURQcG9OOUNxQjIrMTJuYklEYkhQUTFTdXVNcWZsYkFnPT0K",
+      "url": "https://github.com/DiegoArmando-hub/centralizador_update/releases/download/v1.0.11/Aula.Virtual.GC_1.0.11_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjY3dU9WdzdFWENkVXdlNXliNVMxQmI0MWdFTHFPWkNLVzJWbjVLdEpIOEJSTnh4bnlIWGFJNklaUWpveG5iQlR2UnlRUHMyWm5lcTkwRXRrRzdYVCsremlkTmU2Z1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU1NzMwCWZpbGU6QXVsYSBWaXJ0dWFsIEdDXzEuMC4xMF94NjQtc2V0dXAuZXhlClJpOVgydC9NaEhlNlpWbCtPb25hZXdYclltS1NpWjIrK3lta2J6OWFpWldUbWJnV0FpR29reHVrckp2S203Vk1WcU43V1drQ2tvU1FwM1FXVmJORkRnPT0K",
-      "url": "https://github.com/DiegoArmando-hub/centralizador_update/releases/download/v1.0.10/Aula.Virtual.GC_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjY3dU9WdzdFWERDYVpNTXcxRmFkTitLR3hadGNwamxVUjlIQ2kzdlJtV0oyeVQvRXBkeVFPdkU0Y1dBbjhkTUNwc1FRQmNTNHFXQUQ5bmM2NDE0dnNoVXRTZ2p6Y3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc0MDIyCWZpbGU6QXVsYSBWaXJ0dWFsIEdDXzEuMC4xMV94NjQtc2V0dXAuZXhlCjRvWHZDY1hpVlQ5NVk3ZjBEeEh0WFhGeWpKRGtlcEYwdTFXbnNKTVpyOVVBTHNJYkpkMzl1bWUyMDk1dDBKRmJac0hVenJVMkVDTzJkTjZtTDQwa0JBPT0K",
+      "url": "https://github.com/DiegoArmando-hub/centralizador_update/releases/download/v1.0.11/Aula.Virtual.GC_1.0.11_x64-setup.exe"
     }
   }
 }
